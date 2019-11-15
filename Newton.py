@@ -1,9 +1,4 @@
-import pylab
-import numpy as np
-import sympy
-import math
-def is_number(str): # проверка является ли строка числом типа float
-    try:#пробуем привезти строку к типу флоат
+ флоат
         float(str)
         return True #получилось,значит возвращаем тру
     except ValueError:
